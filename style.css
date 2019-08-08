@@ -1,0 +1,9 @@
+.person{
+    font-family: 'Playfair Display', serif;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 16px;
+    min-width: 390px;
+    padding: 10px 20px 10px 20px;
+}
